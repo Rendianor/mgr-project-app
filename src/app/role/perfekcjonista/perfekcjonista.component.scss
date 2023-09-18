@@ -1,0 +1,15 @@
+:host{
+    .text-container{
+        overflow:scroll;
+        overflow-x:hidden;
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    h4{
+        letter-spacing: 0.5px;
+    }
+    p{
+        font-size: 16px;
+        font-weight: 500;
+    }
+}

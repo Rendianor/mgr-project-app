@@ -1,0 +1,30 @@
+:host {
+
+
+    
+    button{
+        width: 340px;
+        height: 50px;
+        font-size: 20px;
+        margin: 50px 20px 50px 20px;
+    }
+
+
+    .description {
+        font-weight: 400;
+        font-size: 18px;
+        margin-left: 50px;
+        margin-right: 50px;
+        .title-description {
+            font-weight: 500;
+            font-size: 19px;
+        }
+
+    }
+
+    .last-description {
+        text-align: center;
+        font-size: 18px;
+        font-weight: 500;
+    }
+}

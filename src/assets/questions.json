@@ -1,0 +1,576 @@
+{
+    "questions": [
+        {
+            "questionText": "Co motywuje Cię do pracy w zespole?",
+            "options": [
+                {
+                    "text": "Osiągnięcie celów",
+                    "value": {
+                        "mobilizator": 3
+                    }
+                },
+                {
+                    "text": "Praca w dynamicznym środowisku",
+                    "value": {
+                        "odkrywca": 3
+                    }
+                },
+                {
+                    "text": "Dobre relacje między członkami zespołu",
+                    "value": {
+                        "inspirator": 3
+                    }
+                },
+                {
+                    "text": "Rozwiązywanie problemów",
+                    "value": {
+                        "perfekcjonista": 3
+                    }
+                },
+                {
+                    "text": "Praca nad projektem od początku do końca",
+                    "value": {
+                        "realizatora": 3
+                    }
+                },
+                {
+                    "text": "Doskonalenie swoich umiejętności",
+                    "value": {
+                        "ekspert": 3
+                    }
+                },
+                {
+                    "text": "Organizowanie pracy, poprzez analizę sytuacji",
+                    "value": {
+                        "analityk": 3
+                    }
+                },
+                {
+                    "text": "Wprowadzanie nowych pomysłów i rozwiązań do zespołu",
+                    "value": {
+                        "innowator": 3
+                    }
+                },
+                {
+                    "text": "Prowadzenie grupy do wspólnego celu",
+                    "value": {
+                        "organizator": 3
+                    }
+                }
+            ]
+        },
+        {
+            "questionText": "Jaka jest Twoja ulubiona forma pracy zespołowej?",
+            "options": [
+                {
+                    "text": "Zarządzanie zespołem",
+                    "value": {
+                        "organizator": 3
+                    }
+                },
+                {
+                    "text": "Oryginalne myślenie i wprowadzanie kreatywnych pomysłów",
+                    "value": {
+                        "innowator": 3
+                    }
+                },
+                {
+                    "text": "Rozwijanie się pod presją",
+                    "value": {
+                        "mobilizator": 3
+                    }
+                },
+                {
+                    "text": "Motywowanie innych do pracy",
+                    "value": {
+                        "inspirator": 3
+                    }
+                },
+                {
+                    "text": "Wykonywanie prac o charakterze intelektualnym",
+                    "value": {
+                        "ekspert": 3
+                    }
+                },
+                {
+                    "text": "Wykonywanie rutynowych prac",
+                    "value": {
+                        "realizator": 3
+                    }
+                },
+                {
+                    "text": "Ocena pomysłów i sugestii, w celu określenia ich wykonalności i pomocy w ich wdrożeniu",
+                    "value": {
+                        "analityk": 3
+                    }
+                },
+                {
+                    "text": "Nawiązywać kontakty i szukać nowych możliwości",
+                    "value": {
+                        "odkrywca": 3
+                    }
+                },
+                {
+                    "text": "Dbałość o jakość pracy",
+                    "value": {
+                        "perfekcjonista": 3
+                    }
+                }
+            ]
+        },
+        {
+            "questionText": "Jak reagujesz na nowe sytuacje w pracy?",
+            "options": [
+                {
+                    "text": "Wychodzę z nieszablonowymi pomysłami i sugestiami",
+                    "value": {
+                        "innowator": 3
+                    }
+                },
+                {
+                    "text": "Analizujesz sytuację i starasz się znaleźć najlepsze rozwiązanie",
+                    "value": {
+                        "analityk": 3
+                    }
+                },
+                {
+                    "text": "Staram się, rozwiązać nową sytuację tak szybko, jak to możliwę",
+                    "value": {
+                        "mobilizator": 3
+                    }
+                },
+                {
+                    "text": "Stawiasz na relacje między członkami zespołu i współpracę",
+                    "value": {
+                        "inspirator": 3
+                    }
+                },
+                {
+                    "text": "Szukasz dodatkowych zasobów i pomysłów, które pomogą w realizacji projektu",
+                    "value": {
+                        "odkrywca": 3
+                    }
+                },
+                {
+                    "text": "Koordynujesz działania zespołu w celu rozwiązania sytuacji",
+                    "value": {
+                        "organizator": 3
+                    }
+                },
+                {
+                    "text": "Stajesz na wysokości zadania i podejmujesz działania",
+                    "value": {
+                        "ekspert": 3
+                    }
+                },
+                {
+                    "text": "Rozbijasz problem na czynniki pierwsze, aby osiągnąć najwyższe możliwe standardy",
+                    "value": {
+                        "perfekcjonista": 3
+                    }
+                },
+                {
+                    "text": "Staram się ocenić sytacje i przekształcić pomysły w plan pracy",
+                    "value": {
+                        "realizator": 3
+                    }
+                }
+            ]
+        },
+        {
+            "questionText": "Jakie umiejętności chciałbyś rozwijać w swojej pracy?",
+            "options": [
+                {
+                    "text": "Umiejętność zarządzania projektem",
+                    "value": {
+                        "organizator": 3,
+                        "analityk": 2
+                    }
+                },
+                {
+                    "text": "Umiejętność radzenia sobie ze stresem",
+                    "value": {
+                        "mobilizator": 3,
+                        "organizator": 2,
+                        "innowator": 2
+                    }
+                },
+                {
+                    "text": "Umiejętność rozwiązywania problemów",
+                    "value": {
+                        "inspirator": 3,
+                        "perfekcjonista": 2,
+                        "ekspert": 2,
+                        "realizator": 2,
+                        "analityk": 1
+                    }
+                },
+                {
+                    "text": "Umiejętność budowania relacji z klientami",
+                    "value": {
+                        "odkrywca": 3
+                    }
+                }
+            ]
+        },
+        {
+            "questionText": "Jakie aspekty pracy są dla Ciebie najważniejsze?",
+            "options": [
+                {
+                    "text": "Możliwość awansu",
+                    "value": {
+                        "organizator": 3,
+                        "mobilizator": 1
+                    }
+                },
+                {
+                    "text": "Praca w dynamicznym środowisku",
+                    "value": {
+                        "odkrywca": 3,
+                        "inspirator": 2,
+                        "mobilizator": 3
+                    }
+                },
+                {
+                    "text": "Możliwość rozwoju zawodowego",
+                    "value": {
+                        "ekspert": 3,
+                        "realizator": 2
+                    }
+                },
+                {
+                    "text": "Satysfakcja z wykonywanej pracy",
+                    "value": {
+                        "analityk": 3,
+                        "innowator": 2,
+                        "perfekcjonista": 2
+                    }
+                }
+            ]
+        },
+        {
+            "questionText": "Mam trudności w pracy zespołowej z powodu...",
+            "options": [
+                {
+                    "text": "Braku cierpliwości wobec osób, które blokują postęp",
+                    "value": {
+                        "organizator": 3
+                    }
+                },
+                {
+                    "text": "Otrzymywania krytyki za drobiazgowość i nadmierną analizę",
+                    "value": {
+                        "analityk": 3
+                    }
+                },
+                {
+                    "text": "Przywiązywania dużej wagi do jakości, co prowadzi do opóźnień w realizacji zadań",
+                    "value": {
+                        "perfekcjonista": 3
+                    }
+                },
+                {
+                    "text": "Szybkiego nudzenia się, mobilizują mnie do działania tylko interesujące tematy",
+                    "value": {
+                        "odkrywca": 3
+                    }
+                },
+                {
+                    "text": "Zbyt dominującego zachowania",
+                    "value": {
+                        "mobilizator": 3
+                    }
+                },
+                {
+                    "text": "Problemu wyjaśnienia innym skomplikowanych pomysłów, które mi przyszły na myśl",
+                    "value": {
+                        "ekspert": 3
+                    }
+                },
+                {
+                    "text": "Dużego zaangażowania emocjonalnego",
+                    "value": {
+                        "inspirator": 3
+                    }
+                },
+                {
+                    "text": "Przedstawieniem swoich argumentów na forum publicznym",
+                    "value": {
+                        "innowator": 3
+                    }
+                },
+                {
+                    "text": "Trudności w rozpoczęciu działania, dopóki cele nie zostaną jasno określone",
+                    "value": {
+                        "realizator": 3
+                    }
+                }
+            ]
+        },
+        {
+            "questionText": "Głównymi przeszkodami, które napotykam w pracy zespołowej to: ",
+            "options": [
+                {
+                    "text": "Słaba organizacja i nieefektywne prowadzenie spotkań",
+                    "value": {
+                        "organizator": 3
+                    }
+                },
+                {
+                    "text": "Problem w radzeniu sobie ze stresem",
+                    "value": {
+                        "perfekcjonista": 3
+                    }
+                },
+                {
+                    "text": "Tendencji do działania zbyt ostrożnie i skupiania się na szczegółach, co opóźnia postęp grupy;",
+                    "value": {
+                        "realizator": 3
+                    }
+                },
+                {
+                    "text": "Trudności w podejmowaniu decyzji oraz brak asertywności",
+                    "value": {
+                        "inspirator": 3
+                    }
+                },
+                {
+                    "text": "Trudności w podejmowaniu szybkich decyzji w sytuacjach, gdy potrzebne są konkretna działania",
+                    "value": {
+                        "analityk": 3
+                    }
+                },
+                {
+                    "text": "Trudności w komunikacji z innymi członkami grupy",
+                    "value": {
+                        "ekspert": 3
+                    }
+                },
+                {
+                    "text": "Brak cierpilowści, co może prowadzić do pomijania ważnych kroków",
+                    "value": {
+                        "mobilizator": 3
+                    }
+                },
+                {
+                    "text": "Skłoności do rozporszenia uwagi i trudności w utrzymaniu skupienia na konkretnych zadaniach",
+                    "value": {
+                        "odkrywca": 3
+                    }
+                },
+                {
+                    "text": "Trudności w realizacji pomysłów",
+                    "value": {
+                        "innowator": 3
+                    }
+                }
+            ]
+        },
+        {
+            "questionText": "Gdy jestem zaangażowany w projekt we współpracy z innymi",
+            "options": [
+                {
+                    "text": "Zazwyczaj potrafię wpływać na innych bez wywierania presji",
+                    "value": {
+                        "organizator": 3
+                    }
+                },
+                {
+                    "text": "Moja uważność zapobiega popełnianiu błędów lub zaniedbań",
+                    "value": {
+                        "perfekcjonista": 3
+                    }
+                },
+                {
+                    "text": "Często naciskam na podjęcie działań, aby nie tracić czasu i dotrzymywać terminów",
+                    "value": {
+                        "mobilizator": 3
+                    }
+                },
+                {
+                    "text": "Wsprzyjam czyjeś sugestie, jeśli służą one wspólnemu interesowi",
+                    "value": {
+                        "inspirator": 3
+                    }
+                },
+                {
+                    "text": "Potrafię przekładać cele i strategie na konkretne kroki i zadania",
+                    "value": {
+                        "realizator": 3
+                    }
+                },
+                {
+                    "text": "Można liczyć na to, że wniosę coś oryginalnego i kreatywnego",
+                    "value": {
+                        "innowator": 3
+                    }
+                },
+                {
+                    "text": "Mam łatwość w przystosowaniu się do zmiennych warunków i sytuacji",
+                    "value": {
+                        "odkrywca": 3
+                    }
+                },
+                {
+                    "text": "Moja obiektywna ocena sytuacji pomaga grupie podejmować właściwe decyzje",
+                    "value": {
+                        "analityk": 3
+                    }
+                },
+                {
+                    "text": "Mogę przyczynić się do rowiązania skomplikowanych problemów",
+                    "value": {
+                        "ekspert": 3
+                    }
+                }
+            ]
+        },
+        {
+            "questionText": "Uważam, że moje zaangażowanie w pracę zespołową obejmuje",
+            "options": [
+                {
+                    "text": "Identyfikowanie i wykorzystywanie dostępnych zasobów, takich jak ludzie, materiały, czas i budżet",
+                    "value": {
+                        "organizator": 3
+                    }
+                },
+                {
+                    "text": "Dokładność i jakość, kładę duży nacisk na jakość wykonanej pracy",
+                    "value": {
+                        "perfekcjonista": 3
+                    }
+                },
+                {
+                    "text": "Generowanie nowych i innowacyjnych pomysłów",
+                    "value": {
+                        "innowator": 3
+                    }
+                },
+                {
+                    "text": "Umiejętność oddawania głosu innym, gdy widzę, że mają coś wartościowego do wniesienia",
+                    "value": {
+                        "inspirator": 3
+                    }
+                },
+                {
+                    "text": "Efektywność i zdolność do kontynuowania działania, co prowadzi do osiągnięcia celu",
+                    "value": {
+                        "ekspert": 3
+                    }
+                },
+                {
+                    "text": "Gotowość do podejmowania konkretnych działań, nawet kosztem tymczasowej dezaprobaty człoknów zespołu",
+                    "value": {
+                        "mobilizator": 3
+                    }
+                },
+                {
+                    "text": "Realizm i praktyczność, skupiam się na praktycznych rozwiązaniach",
+                    "value": {
+                        "realizator": 3
+                    }
+                },
+                {
+                    "text": "Wzięcię pod uwagę różne, alternatywne metody działania, które prowadzą do rozwiązań",
+                    "value": {
+                        "odkrywca": 3
+                    }
+                },
+                {
+                    "text": "Analizę, krytyczne myślenie i komunikacje",
+                    "value": {
+                        "analityk": 3
+                    }
+                }
+            ]
+        },
+        {
+            "questionText": "Jakie są Twoje preferencje dotyczące organizacji pracy?",
+            "options": [
+                {
+                    "text": "Praca w strukturalnym i zorganizowanym środowisku",
+                    "value": {
+                        "organizator": 1,
+                        "analityk": 1,
+                        "ekspert": 1,
+                        "realizator": 1,
+                        "perfekcjonista": 1
+                    }
+                },
+                {
+                    "text": "Praca w elastycznym i nieustrukturyzowanym środowisku",
+                    "value": {
+                        "odkrywca": 1,
+                        "innowator": 1
+                    }
+                },
+                {
+                    "text": "Praca w zespole, gdzie każdy ma określone zadania i obowiązki",
+                    "value": {
+                        "inspirator": 1,
+                        "mobilizator": 1
+                    }
+                }
+            ]
+        },
+        {
+            "questionText": "Jakie umiejętności uważasz za kluczowe w skutecznej pracy zespołowej?",
+            "options": [
+                {
+                    "text": "Otwartość na zmiany i komunikacja",
+                    "value": {
+                        "odkrywca": 3
+                    }
+                },
+                {
+                    "text": "Współpraca i rozwiązywanie konfliktów",
+                    "value": {
+                        "inspirator": 3
+                    }
+                },
+                {
+                    "text": "Liderstwo i planowanie",
+                    "value": {
+                        "organizator": 3
+                    }
+                },
+                {
+                    "text": "Wizjonerskie myślenie i otwartość na nowe pomysły",
+                    "value": {
+                        "innowator": 3
+                    }
+                },
+                {
+                    "text": "Umiejętność oceny i obiektywność",
+                    "value": {
+                        "analityk": 3
+                    }
+                },
+                {
+                    "text": "Specjalistyczna wiedza i samodzielność",
+                    "value": {
+                        "ekspert": 3
+                    }
+                },
+                {
+                    "text": "Organizacja i motywowanie",
+                    "value": {
+                        "mobilizator": 3
+                    }
+                },
+                {
+                    "text": "Praktyczne podejście  i determinacja",
+                    "value": {
+                        "realizator": 3
+                    }
+                },
+                {
+                    "text": "Wysokie standardy jakości i terminowość",
+                    "value": {
+                        "perfekcjonista": 3
+                    }
+                }
+            ]
+        }
+    ]
+}

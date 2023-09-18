@@ -1,0 +1,17 @@
+<app-ui-page [text]="'Dowiedz się jaką role posiadasz w zespole:'">
+    <div fxLayout="row" fxLayoutAlign="center center">
+        <button mat-raised-button color="primary" [routerLink]="'/quiz'">Rozpocznij test</button>
+    </div>
+    <div fxFlex fxLayout="column">
+        <p class="description">
+            <label class="title-description">Teoria ról zespołowych</label> - odnosi się do
+            koncepcji, że każdy członek zespołu ma określoną rolę do odegrania w kontekście projektu lub organizacji.
+            Teoria ta zakłada, że różne role w zespole mają różne zadania, odpowiedzialności i kompetencje, które razem
+            wspierają efektywne funkcjonowanie zespołu.
+        </p>
+        <p class="last-description">
+            Każda z teorii ma swoje mocne strony i ograniczenia. Ważne jest, aby wybrać teorię, która najlepiej
+            odpowiada potrzebom i charakterystyce danego zespołu oraz rodzajowi projektu.
+        </p>
+    </div>
+</app-ui-page>

@@ -1,0 +1,21 @@
+<div fxFlex fxLayout="column" fxLayoutAlign="start center" class="container">
+  <div fxLayout="row" class="button-container">
+
+    <div *ngIf="isVisibleHome" class="home-button">
+      <button mat-icon-button color="primary" aria-label="Example icon button with a home icon"
+        matTooltip="Strona główna" matTooltipPosition="below" [routerLink]="'../'">
+        <mat-icon>home</mat-icon>
+      </button>
+    </div>
+    <div  fxLayoutAlign="center center" style="width: 100%;">
+      <label class="title">{{text}}</label>
+    </div>
+    <div *ngIf="isVisibleDownload" class="download-button">
+      <button mat-icon-button (click)="downloadPdf()" color="primary" aria-label="Example icon button with a home icon" matTooltip="Pobierz"
+        matTooltipPosition="below">
+        <mat-icon>get_app</mat-icon>
+      </button>
+    </div>
+  </div>
+  <ng-content></ng-content>
+</div>
