@@ -52,7 +52,6 @@ export class QuizComponent implements OnInit {
       variables.sort((a, b) => b[1] - a[1]);
       const filteredArray = variables.filter((result) => !isNaN(result[1]));
       for (let i = 0; i < filteredArray.length; i++) {
-        console?.log(`${filteredArray[i][0]}: ${filteredArray[i][1]}`);
         this.routerLink = filteredArray[0][0];
       }
       if (currentQno + 1 === this.questionList.length) {
@@ -64,7 +63,6 @@ export class QuizComponent implements OnInit {
     this.currentQuestion++;
   }
   generateLink(url: string) {
-    console.log("/" + url)
     const pageUrl = this.getPageUrl(url);
     console.log(this.router.navigateByUrl(pageUrl));
   }
